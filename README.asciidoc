@@ -1,0 +1,17 @@
+Vertx Starter
+
+This repository serves a quick starter for Vertx projects. It has or will have
+
+- Service proxy
+- File configuration
+- Web contract OpenAPI
+- MongoDB client
+- Unit tests
+
+
+Run the following command to boostrap the application:
+
+[source]
+----
+mvn clean test exec:java
+----
