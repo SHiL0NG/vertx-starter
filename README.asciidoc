@@ -6,6 +6,7 @@ This repository serves a quick starter for Vertx projects. It has or will have
 - File configuration
 - Web contract OpenAPI
 - MongoDB client
+- Logging
 - Unit tests
 
 
