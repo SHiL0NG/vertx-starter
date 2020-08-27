@@ -6,4 +6,13 @@ info:
 servers:
   - url: 'https'
 paths:
-  
+  /:
+    get:
+      operationId: getHome
+      summary: home page
+      description: get home page
+      responses:
+        '200':
+          description: success
+
+

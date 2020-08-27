@@ -20,7 +20,7 @@
         <file>/tmp/vertx.log</file>
     </appender>
 
-    <logger name="org.szhao" level="debug">
+    <logger name="org.szhao" level="trace">
     </logger>
     <logger name="io.vertx" level="debug">
     </logger>
